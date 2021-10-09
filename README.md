@@ -1,2 +1,2 @@
 # ComradeFitness
-Online GYM Web Application
+Online GYM Web Application 
